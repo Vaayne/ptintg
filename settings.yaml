@@ -1,0 +1,12 @@
+cookiecloud:
+  host:
+  uuid:
+  pass:
+
+qBittorrent:
+  host:
+  user:
+  pass:
+
+telegram:
+  token:
